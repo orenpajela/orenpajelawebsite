@@ -73,8 +73,8 @@
   top: 10vh;
   width: 100vw;
   height: 0.75vh;
-  background-image: -webkit-gradient(linear, left top, right top, from(#47a8bd), color-stop(30%, #edffec), color-stop(64%, #ffad69), to(#ed254e));
-  background-image: linear-gradient(90deg, #47a8bd, #edffec 30%, #ffad69 64%, #ed254e);
+  background-image: -webkit-gradient(linear, left top, right top, from(#ed254e), color-stop(33%, #ffad69), color-stop(68%, #47a8bd), to(#edffec));
+  background-image: linear-gradient(90deg, #ed254e, #ffad69 33%, #47a8bd 68%, #edffec);
 }
 
 .nav {
@@ -879,6 +879,26 @@
 
 .future-house-image {
   margin-top: 40px;
+}
+
+.div-block-10 {
+  text-align: center;
+}
+
+.text-block {
+  margin-bottom: 4px;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.big-weblog-div {
+  margin-bottom: 40px;
+}
+
+.text-block-2 {
+  font-size: 64px;
+  line-height: 72px;
+  text-align: left;
 }
 
 @media screen and (max-width: 991px) {
