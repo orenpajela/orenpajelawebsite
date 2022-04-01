@@ -41,7 +41,15 @@
   </div>
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
-  	<div class="fitness-div">
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 180<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 205<br></p>
+		<p class="weblog-date">4/1/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">3/31/2022</p>
+	</div>  	
+	<div class="fitness-div">
 	    <p class="weblog-paragraph">-5x5 squat @ 175<br>-5x5 bench @ 150<br>-5x5 barbell row @ 120<br>-Didn't stretch but need to start doing it again.<br></p>
 	    <p class="weblog-date">3/30/2022</p>
 	</div>
@@ -50,8 +58,8 @@
 		<p class="weblog-date">3/29/2022</p>
 	</div>
 	<div class="fitness-div">
-			<p class="weblog-paragraph">-5x5 squat @ 170<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 195<br></p>
-			<p class="weblog-date">3/28/2022</p>
+		<p class="weblog-paragraph">-5x5 squat @ 170<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 195<br></p>
+		<p class="weblog-date">3/28/2022</p>
 	</div>   
     <div class="fitness-div">
       <p class="weblog-paragraph">-Rest<br></p>
