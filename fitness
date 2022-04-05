@@ -42,6 +42,22 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-1.5 hour hike<br></p>
+		<p class="weblog-date">4/5/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-1.5 hour hike<br></p>
+		<p class="weblog-date">4/4/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/3/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/2/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-5x5 squat @ 180<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 205<br></p>
 		<p class="weblog-date">4/1/2022</p>
 	</div>
