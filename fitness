@@ -42,6 +42,14 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 190<br>-5x5 bench @ 155<br>-5x5 barbell row @ 135<br>-10 minute walk<br>-Lower body stretch</p>
+		<p class="weblog-date">4/13/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/12/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-Max out day<br>-Squat @ 255<br>-Bench @ 190<br>-Overhead press @ 105<br>-Deadlift @ 305<br>-10 minute elliptical<br>-Lower body stretch</p>
 		<p class="weblog-date">4/11/2022</p>
 	</div>
