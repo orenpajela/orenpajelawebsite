@@ -41,12 +41,128 @@
   </div>
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 190<br>-5x5 bench @ 155<br>-5x5 barbell row @ 135<br>-10 minute walk<br>-Lower body stretch</p>
+		<p class="weblog-date">4/13/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/12/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Max out day<br>-Squat @ 255<br>-Bench @ 190<br>-Overhead press @ 105<br>-Deadlift @ 305<br>-10 minute elliptical<br>-Lower body stretch</p>
+		<p class="weblog-date">4/11/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/10/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/9/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 185<br>-5x5 bench @ 155, failed 4th set<br>-5x5 barbell row @ 135, smith machine<br>-20 minute walk for 1.27 miles<br>-Lower body stretch</p>
+		<p class="weblog-date">4/8/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/7/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/6/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-1.5 hour hike<br></p>
+		<p class="weblog-date">4/5/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-1.5 hour hike<br></p>
+		<p class="weblog-date">4/4/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/3/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">4/2/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 180<br>-5x5 overhead press @ 85<br>-3x5 deadlift @ 205<br></p>
+		<p class="weblog-date">4/1/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">3/31/2022</p>
+	</div>  	
+	<div class="fitness-div">
+	    <p class="weblog-paragraph">-5x5 squat @ 175<br>-5x5 bench @ 150<br>-5x5 barbell row @ 120<br>-Didn't stretch but need to start doing it again.<br></p>
+	    <p class="weblog-date">3/30/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">3/29/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 170<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 195<br></p>
+		<p class="weblog-date">3/28/2022</p>
+	</div>   
     <div class="fitness-div">
-      <p class="weblog-paragraph">-3 mile walk<br>‍-Weight 15 lb<br></p>
-      <p class="weblog-date">3/14/2022</p>
+      <p class="weblog-paragraph">-Rest<br></p>
+      <p class="weblog-date">3/27/2022</p>
     </div>
     <div class="fitness-div">
-      <p class="weblog-paragraph">-20 minute walk for 1.37 miles at 5.5% grade<br>-Lower body stretch<br>-5x5 squat @ 135<br>-5x5 overhead press @ 80, failed last set<br>-3x5 deadlift @ 165<br>‍-Weight 15 lb<br></p>
+      <p class="weblog-paragraph">-Rest<br></p>
+      <p class="weblog-date">3/26/2022</p>
+    </div>
+	<div class="fitness-div">
+	    <p class="weblog-paragraph">-5x5 squat @ 165<br>-5x5 bench @ 145<br>-5x5 barbell row (smith machine) @ 135<br>-Lower body stretch<br>-20 minute walk<br></p>
+	    <p class="weblog-date">3/25/2022</p>
+	</div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-Rest<br></p>
+	    <p class="weblog-date">3/24/2022</p>
+    </div>    
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-20 minute walk/jog for 1.51 miles<br>-Lower body stretch<br>-5x5 squat @ 155<br>-5x5 overhead press @ 85 (failed last set)<br>-3x5 deadlift @ 185<br></p>
+	    <p class="weblog-date">3/23/2022</p>
+    </div>    
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-Rest<br></p>
+	    <p class="weblog-date">3/22/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-20 minute walk/jog for 1.51 miles<br>-Lower body stretch<br>-5x5 squat @ 150<br>-5x5 bench @ 140<br>-5x5 barbell row (smith machine) @ 125<br></p>
+	    <p class="weblog-date">3/21/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-Rest<br></p>
+	    <p class="weblog-date">3/20/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-Rest<br></p>
+	    <p class="weblog-date">3/19/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-20 minute walk for 1.17 miles<br>-Lower body stretch<br>-5x5 squat @ 145<br>-5x5 overhead press @ 80<br>-3x5 deadlift @ 175<br></p>
+	    <p class="weblog-date">3/18/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-Rest<br></p>
+	    <p class="weblog-date">3/17/2022</p>
+    </div>
+    <div class="fitness-div">
+	    <p class="weblog-paragraph">-5x5 squat @ 140<br>-5x5 bench @ 135<br>-5x5 barbell row @ 115<br>-Hamstring stretch<br>-Weight 154 lb<br></p>
+	    <p class="weblog-date">3/16/2022</p>
+    </div>
+    <div class="fitness-div">
+      <p class="weblog-paragraph">-3 mile walk<br>‍-Weight 154 lb<br></p>
+      <p class="weblog-date">3/15/2022</p>
+    </div>
+    <div class="fitness-div">
+      <p class="weblog-paragraph">-20 minute walk for 1.37 miles at 5.5% grade<br>-Lower body stretch<br>-5x5 squat @ 135<br>-5x5 overhead press @ 80, failed last set<br>-3x5 deadlift @ 165<br>‍-Weight 153 lb<br></p>
       <p class="weblog-date">3/14/2022</p>
     </div>
     <div class="fitness-div">
