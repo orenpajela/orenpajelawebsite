@@ -42,6 +42,14 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 215<br>-5x5 bench @ 160<br>-5x5 pullups</p>
+		<p class="weblog-date">5/2/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest<br></p>
+		<p class="weblog-date">5/1/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-5x5 squat @ 210<br>-5x5 overhead press @ 90<br>-3x5 deadlift @ 245<br>-1x17 bench @ 135, smith machine</p>
 		<p class="weblog-date">4/30/2022</p>
 	</div> 
