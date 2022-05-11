@@ -42,6 +42,42 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-Max out day<br>-Squat @ <br>-Bench @ <br>-Overhead press @ <br>-Deadlift @ </p>
+		<p class="weblog-date">5/11/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/10/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/9/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/8/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/7/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 225<br>-5x5 bench @ 165<br>-3x5 deadlift @ 255</p>
+		<p class="weblog-date">5/6/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/5/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 235 (smith machine)<br>-5x5 overhead press @ 95<br>-3x5 deadlift @ 255</p>
+		<p class="weblog-date">5/4/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/3/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-5x5 squat @ 215<br>-5x5 bench @ 160<br>-5x5 pullups</p>
 		<p class="weblog-date">5/2/2022</p>
 	</div> 
