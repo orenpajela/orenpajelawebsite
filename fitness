@@ -42,7 +42,11 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
-		<p class="weblog-paragraph">-Max out day<br>-Squat @ <br>-Bench @ <br>-Overhead press @ <br>-Deadlift @ </p>
+		<p class="weblog-paragraph">-Max out day<br>-Squat @ 310<br>-Bench @ 205<br>-Overhead press @ 115<br>-Deadlift @ 325<br>-Pullups @ 12</p>
+		<p class="weblog-date">5/12/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">5/11/2022</p>
 	</div> 
 	<div class="fitness-div">
