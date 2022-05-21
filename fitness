@@ -42,6 +42,10 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 250<br>-5x5 bench @ 165<br>-5x6 pullups</p>
+		<p class="weblog-date">5/20/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">5/19/2022</p>
 	</div> 
