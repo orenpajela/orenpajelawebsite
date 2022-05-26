@@ -42,8 +42,20 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/26/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 225<br>-5x5 bench @ 155<br>-5x6 pullups, failed last 2 sets</p>
+		<p class="weblog-date">5/25/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">5/24/2022</p>
+	</div> 
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-5x5 squat @ 225 <br>-5x5 overhead press, used legs last 3 sets @ 100<br>-5x5 bench @ 135, 155 for 2 sets)<br>-1x5 deadlift @ 255</p>
-		<p class="weblog-date">5/18/2022</p>
+		<p class="weblog-date">5/23/2022</p>
 	</div>
 	<div class="fitness-div">
 		<p class="weblog-paragraph">-Rest</p>
