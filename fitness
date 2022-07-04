@@ -42,6 +42,26 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 240<br>-5x5 OHP @ 100<br>-5x6 pullups<br>-5x5 bench @ 155<br></p>
+		<p class="weblog-date">7/4/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">7/3/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">7/2/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 240<br>-5x5 OHP @ 100<br>-5x6 pullups<br>-5x5 bench @ 155<br></p>
+		<p class="weblog-date">7/1/2022</p>
+	</div> 
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">6/30/2022</p>
+	</div>
+	<div class="fitness-div">
 		<p class="weblog-paragraph">-3x5 squat @ 240<br>-5x5 bench @ 155, pause at bottom<br></p>
 		<p class="weblog-date">6/29/2022</p>
 	</div> 
