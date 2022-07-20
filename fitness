@@ -42,7 +42,31 @@
   <div class="color-bar wf-section"></div>
   <div class="weblog-section wf-section">
 	<div class="fitness-div">
-		<p class="weblog-paragraph">-5x5 squat @ 245<br>-5x5 OHP @ 105<br>-5x7 pullups<br>-5x5 bench @ 160<br></p>
+		<p class="weblog-paragraph">-5x5 squat @ 245<br>-5x5 bench @ 155<br>-5x5 marchine row @ 155<br></p>
+		<p class="weblog-date">7/20/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">7/19/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-5x5 squat @ 245<br>-5x7 pullups<br>-5x10 one arm push @ 27.5<br></p>
+		<p class="weblog-date">7/18/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">7/17/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
+		<p class="weblog-date">7/16/2022</p>
+	</div>
+	<div class="fitness-div">
+		<p class="weblog-paragraph">-Tabata Pushups (4 min)</p>
+		<p class="weblog-date">7/15/2022</p>
+	</div>
+		<div class="fitness-div">
+		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">7/14/2022</p>
 	</div>
 	<div class="fitness-div">
@@ -53,7 +77,6 @@
 		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">7/12/2022</p>
 	</div>
-	</div> 
 	<div class="fitness-div">
 		<p class="weblog-paragraph">-5x5 squat @ 245<br>-5x5 OHP @ 105<br>-5x7 pullups<br>-5x5 bench @ 160<br></p>
 		<p class="weblog-date">7/11/2022</p>
@@ -66,7 +89,6 @@
 		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">7/9/2022</p>
 	</div>
-	</div> 
 	<div class="fitness-div">
 		<p class="weblog-paragraph">-Rest</p>
 		<p class="weblog-date">7/8/2022</p>
